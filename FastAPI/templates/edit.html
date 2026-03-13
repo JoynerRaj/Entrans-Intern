@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<h2>Edit Student</h2>
+
+<form action="/update/{{student.id}}" method="post">
+
+Name:
+<input type="text" name="name" value="{{student.name}}" required>
+
+<br><br>
+
+Age:
+<input type="number" name="age" value="{{student.age}}" required>
+
+<br><br>
+
+<button type="submit">Update Student</button>
+
+</form>
+
+</body>
+
+</html>
