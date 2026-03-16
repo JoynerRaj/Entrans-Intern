@@ -1,0 +1,9 @@
+Artificial Intelligence (AI) is a field of computer science that focuses on creating machines that can perform tasks that normally require human intelligence.
+
+AI systems can learn from data, recognize patterns, understand natural language, and make decisions. Some common applications of AI include chatbots, recommendation systems, image recognition, and self-driving cars.
+
+Machine Learning is a subset of AI that allows computers to learn from data without being explicitly programmed. Deep Learning is a more advanced type of machine learning that uses neural networks.
+
+AI is used in many industries such as healthcare, finance, education, transportation, and entertainment.
+
+For example, AI can help doctors diagnose diseases, help banks detect fraud, and help companies analyze large amounts of data quickly.
